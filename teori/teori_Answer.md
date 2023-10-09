@@ -1,1 +1,1 @@
-#Teori
+# Teori
