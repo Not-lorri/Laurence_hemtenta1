@@ -14,7 +14,7 @@ Skillnaden mellan en div-tagg och en span-tagg är att en div-tagg är en block-
 
 ## Hur skapar du en länk till en annan webbsida i HTML?
 
-Man skapar det genom att använda en anchor alltså <a>-taggen. Vad den gör är att den definierar ett hyperlänk som då används till att länka andra webbsidor och är ett self-closing tag. Länkningen kan se ut så här 
+Man skapar det genom att använda en anchor alltså a-taggen med attributen href=. Vad den gör är att den definierar ett hyperlänk som då används till att länka andra webbsidor och är ett self-closing tag. Länkningen kan se ut så här 
 <href=“https://www.youtube.com”>
 
 ## Vad är en HTML-tabell och hur skapar du en enkel tabellstruktur?
